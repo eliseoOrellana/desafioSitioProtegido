@@ -1,0 +1,6 @@
+datos para crear en base de datos
+-- vanrossum
+('guido@mail.com','$2a$10$1X8qnW89UrB9zrjRvSLf4.H4u/ZkAXvyWoJMdXGwTIlGA6t3vcquq','CLIENT');
+
+-- gosling
+('james@mail.com', '$2a$10$8bhmeA37YHbBaWpvFvSuC.3rtuZd.GV4fM63qSSoQ9SPSb4kelDze', 'ADMIN');
